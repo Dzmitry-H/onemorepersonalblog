@@ -100,5 +100,6 @@ The fastest way to combine your favorite tools and APIs to build the fastest sit
 
 Hey, added just one more chapter just for fun :)
 Added one more string to test one interesting feature.
+The previous experiment failed but we're not sad :)
 
 <!-- AUTO-GENERATED-CONTENT:END -->
